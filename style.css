@@ -1,0 +1,245 @@
+body{
+    margin: 0px;
+    background-color: #e8eaed;
+}
+.navbar{
+    background-color: #4277a5;
+    padding: 6px;
+    display: flex;
+    justify-content: center;
+}
+.vk{
+     color: white;
+    font-size: 23px;
+    font-weight: bold;
+    font-family: Arial;
+
+}
+.navbar input{
+    border-radius: 20px;
+    padding: 5px;
+    border: 0px;
+    font-size: 13px;
+    padding-left: 25px;
+    width: 130px;
+    background-color: ;
+}
+.search .search1{
+    margin-left: 12%;
+}
+.search{
+    width: 80%;
+    display: flex;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.menu{
+    width: 80%;
+    display: flex;
+}
+.leftmen{
+    width: 15%;
+    font-size: 14px;
+    margin-top: 20px;
+}
+a{
+     color: #354e6c;
+    text-decoration: none;
+}
+.centermenu{
+    width: 25%;
+    margin-top: 20px;
+}
+.centermenu img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 240px;
+}
+.ava{
+     background-color: white;
+    border-radius: 5px;
+    padding: 12px
+}
+.centermenu button{
+    width: 100%;
+    background-color: #e8eaed;
+    color: #354e6c;
+    border: 0px;
+    border-radius: 3px;
+    padding: 5px 0px;
+    margin-top: 13px;
+}
+.friends{
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 13px;
+}
+.f146{
+    padding-left: 15px;
+    font-size: 15px;
+    color: #354e6c;;
+}
+.friendsphoto{
+    margin-top: 15px;
+}
+.friendsphoto img{
+    border-radius: 100%;
+    height: 60px;
+    width: 60px;
+}
+.friendsphoto .p{
+    font-size: 12px;
+    text-align: center;
+    color: #354e6c;
+    font-family: Arial;
+    margin-top: 5px;
+}
+.photos{
+    width: 28%;
+}
+.top {
+    display: flex;
+    justify-content: space-around;
+}
+.buttom{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+.rightmenu{
+    width: 60%;
+    margin-top: 20px;
+}
+.profile{
+    background-color: white;
+    border-radius: 5px;
+    padding: 12px;
+    margin-left: 13px;
+}
+.myfullname{
+    font-size: 21px;
+    color: #354e6c;
+    font-weight: 500;
+    font-family: Arial;
+}
+.keremet{
+     font-size: 15px;
+    color: #354e6c;
+    margin-top: 3px;
+    font-family: Arial;
+}
+.online{
+    font-size: 12px;
+    color: #354e6c;
+}
+.firstprof{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid lightgray;
+}
+.name{
+    margin-bottom: 20px;
+}
+.secondprof{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    font-family: Arial;
+    font-size: 14px;
+    color: gray;
+}
+.info{
+    line-height: 0.7;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.infoans{
+    margin-left: 10%;
+    margin-top: 10px;
+    line-height: 0.7;
+    margin-bottom: 10px;
+    color: black;
+}
+.thirdprof{
+     display: flex;
+    justify-content: center;
+}
+table{
+    text-align: center;
+    margin-top: 15px;
+}
+tr:first-child{
+    color: #354e6c;
+    font-size: 23px;
+    font-family: Arial;
+}
+tr:last-child{
+    padding-top: 5px;
+    color: gray;
+    font-family: Verdana;
+    font-size: 12px;
+}
+td{
+    padding: 2px 12px;
+}
+.Myphotos{
+    background-color: white;
+    border-radius: 5px;
+    padding: 12px;
+    margin-left: 13px;
+    margin-top: 13px;
+}
+.Pphotos{
+    color: #354e6c;
+    font-family: Arial;
+    font-size: 13px;
+    margin-bottom: 12px;
+}
+.photolist img{
+    width: 23%;
+    padding: 6px;
+}
+.photolist{
+    width: 100%;
+    display: flex;
+}
+.news{
+    background-color: white;
+    border-radius: 5px;
+    padding: 12px;
+    margin-left: 13px;
+    margin-top: 13px;
+}
+.anick{
+    display: flex;
+}
+.anick img{
+     width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+.aname{
+    font-size: 18px;
+    color: #394b70;
+    font-weight: bold;
+}
+.atime{
+    font-size: 13px;
+    font-family: Arial;
+    color: gray;
+    margin-top: 5px;
+}
+.antime{
+    margin-left: 15px;
+    margin-top: 3px;
+}
+.lasttext{
+    padding-top: 12px;
+    font-family: Arial;
+    color: #484749;
+    font-size: 14.5px;
+}

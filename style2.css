@@ -1,0 +1,226 @@
+body{
+    margin: 0px;
+    background-color: #e8eaed;
+}
+.navbar{
+    background-color: #4277a5;
+    padding: 6px;
+    display: flex;
+    justify-content: center;
+}
+.vk{
+     color: white;
+    font-size: 23px;
+    font-weight: bold;
+    font-family: Arial;
+
+}
+.navbar input{
+    border-radius: 20px;
+    padding: 5px;
+    border: 0px;
+    font-size: 13px;
+    padding-left: 25px;
+    width: 130px;
+    background-color: ;
+}
+.search .search1{
+    margin-left: 12%;
+}
+.search{
+    width: 80%;
+    display: flex;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.menu{
+    width: 80%;
+    display: flex;
+}
+.leftmen{
+    width: 15%;
+    font-size: 14px;
+    margin-top: 20px;
+}
+a{
+     color: #354e6c;
+    text-decoration: none;
+}
+.centermenu{
+    width: 60%;
+    margin-top: 20px;
+}
+.fbox{
+    display: flex;
+    background-color: #fafaff;
+    border-radius: 5px 5px 0px 0px;
+    padding: 12px 15px;
+    font-family: Arial;
+    align-items: center;
+    justify-content: space-between;
+}
+.boxfriend{
+    display: flex;
+}
+.allf{
+    color: #394b70;
+    font-weight: bold;
+}
+.online{
+    color: #394b70;
+    font-weight: bold;
+    margin-left: 30px;
+}
+.f146{
+    color: gray;
+    margin-left: 10px;
+}
+.f16{
+    color: gray;
+    margin-left: 10px;
+}
+.find button{
+    background-color: #4277a5;
+    color: white;
+    border-radius: 2px;
+    border: 0px;
+    padding: 4px 12px;
+}
+.find a{
+    color: white;
+}
+.sbox{
+     background-color: white;
+    padding: 12px 15px;
+    font-family: Arial;
+    font-size: 14px;
+    color: gray;
+    display: flex;
+    align-items: center;
+    margin-top: 2px;
+}
+.tbox{
+    background-color: white;
+    font-family: Arial;
+    font-size: 14px;
+    color: gray;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2px;
+    padding: 7px 14px;
+}
+.fava img{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+}
+.leftpart{
+    display: flex;
+    align-items: center;
+}
+.finfo{
+    margin-left: 15px;
+}
+.fname{
+    color: #4277a5;
+    font-weight: bold;
+    font-size: 15px;
+}
+.funi{
+    margin: 2px 0px;
+}
+.wmessage{
+    color: #4277a5;
+}
+.rightpart{
+    color: #4277a5;
+    font-weight: bold;
+    letter-spacing: 0.7px;
+}
+.rightmenu{
+    width: 25%;
+    margin-top: 20px;
+}
+.textBox{
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 13px;
+    padding-top: 10px;
+    font-family: Arial;
+    font-size: 14px;
+}
+.text1{
+    font-weight: bold;
+    padding: 12px 0px;
+    background-color: #ededfd;
+    padding-left: 12px;
+}
+.text2{
+    padding: 12px 0px;
+    padding-left: 12px;
+}
+.text3{
+    padding: 12px 0px;
+    padding-left: 12px;
+}
+.text4{
+    padding: 12px 0px;
+    padding-left: 12px;
+}
+.text5{
+    padding: 12px 0px;
+    padding-left: 12px;
+}
+.text6{
+    padding: 12px 0px;
+    padding-left: 12px;
+    padding-bottom: 25px;
+}
+.maybeBox{
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 13px;
+    padding: 12px;
+    margin-top: 13px;
+    font-family: Arial;
+    font-size: 14px;
+}
+.maybeFr{
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.maybeFriends{
+    display: flex;
+    margin-top: 10px;
+}
+.maybeFriends img{
+    width:60px;
+    height: 60px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+}
+.leftPart{
+    display: flex;
+    align-items: center;
+}
+.maybeInfo{
+    margin-left: 15px;
+}
+.maybeName{
+    color: #354e6c;
+    font-size: 13px;
+}
+.mutualFriends{
+    margin: 5px 0px;
+    font-size: 13px;
+    color: gray;
+}
+.addFriend a{
+    color: #354e6c;
+    font-size: 12px;
+}
